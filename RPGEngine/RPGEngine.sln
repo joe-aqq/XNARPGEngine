@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGEngine", "RPGEngine\RPGEngine.csproj", "{EA96FF87-9085-4D41-AC28-40E6A7DA8813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA96FF87-9085-4D41-AC28-40E6A7DA8813}.Debug|x86.ActiveCfg = Debug|x86
+		{EA96FF87-9085-4D41-AC28-40E6A7DA8813}.Debug|x86.Build.0 = Debug|x86
+		{EA96FF87-9085-4D41-AC28-40E6A7DA8813}.Release|x86.ActiveCfg = Release|x86
+		{EA96FF87-9085-4D41-AC28-40E6A7DA8813}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF2AA91-44CD-4BF6-910D-71A0BD639173}
+	EndGlobalSection
+EndGlobal
